@@ -8,7 +8,7 @@
 6. Go to IAM & Admin menu, add member and specify its specific role, then save.
 7. Go to Compute Engine > VM Instances.
 8. Create VM instance with configurations as needed, authors use Machine Family General-Purpose Series N1 and Boot Disk Ubuntu-1804.
-9. Open Firebase in a Google tab.
+9. Open Firebase in a new Google tab.
 10. Add project, then click create a project.
 11. For project name, connect your GCP Project by choose it on Firebase Project.
 12. Choose your plan (Blaze), then continue.
