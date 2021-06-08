@@ -5,7 +5,7 @@
 2. Log in to GCP using gmail account.
 ![image](https://user-images.githubusercontent.com/78900200/121187710-8d84c080-c892-11eb-9200-009bbb115d52.png)
 3. Claim GCP Voucher to get free billing credit.
-![image](https://user-images.githubusercontent.com/78900200/121197672-b2c9fc80-c89b-11eb-9ced-f04b9b641c61.png)
+![image](https://user-images.githubusercontent.com/78900200/121198355-44d20500-c89c-11eb-93bc-d311294e1c4c.png)
 4. Make a new project.
 ![image](https://user-images.githubusercontent.com/78900200/121197837-da20c980-c89b-11eb-80d6-ee54f17d530f.png)
 5. Linked the project to billing account.
