@@ -25,11 +25,15 @@
 12. Choose your plan (Blaze), then continue.
 ![image](https://user-images.githubusercontent.com/78900200/121188682-8ad69b00-c893-11eb-8844-26d942b00fc4.png)
 13. In Firebase, deploy your Android model to Firebase.
+![image](https://user-images.githubusercontent.com/78900200/121199650-4ea83800-c89d-11eb-979b-63ce0534efc9.png)
 14. Create bucket for upload lymphoblast images from users.
+![image](https://user-images.githubusercontent.com/78900200/121199817-70092400-c89d-11eb-808c-60ed0f7ab646.png)
 15. Users will upload images via Android interface, then they will be automatically uploaded to Firebase storage.
 ![image](https://user-images.githubusercontent.com/78900200/121188870-b8bbdf80-c893-11eb-8b65-a73d74a1db04.png)
 16. Move to GCP again.
+![image](https://user-images.githubusercontent.com/78900200/121199939-88793e80-c89d-11eb-9efc-a67df7959fd7.png)
 17. Go to Cloud Storage > Browser.
+![image](https://user-images.githubusercontent.com/78900200/121200086-ab0b5780-c89d-11eb-8d52-02c66143464e.png)
 18. As you can see, the images also can be seen and edited on GCP bucket cloud storage.
 ![image](https://user-images.githubusercontent.com/78900200/121189043-eacd4180-c893-11eb-85a3-e07a9e890d54.png)
 19. To make the images and bucket become public, choose the bucket and click the three dots, then choose edit bucket permissions.
