@@ -44,4 +44,4 @@
 22. On select a role, specify the roles to Cloud Storage > Storage Object Viewer.
 ![image](https://user-images.githubusercontent.com/78900200/121189213-14866880-c894-11eb-8593-1df486f7356b.png)
 23. Files in buckets are publicly accessible.
-![image](https://user-images.githubusercontent.com/78900200/121200703-23721880-c89e-11eb-9452-f786a4ba3cc9.png)
+![image](https://user-images.githubusercontent.com/78900200/121201044-6a600e00-c89e-11eb-9a1b-304b8d94d461.png)
