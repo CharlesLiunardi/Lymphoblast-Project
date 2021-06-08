@@ -17,7 +17,9 @@
 8. Create VM instance with configurations as needed, authors use Machine Family General-Purpose Series N1 and Boot Disk Ubuntu-1804.
 ![image](https://user-images.githubusercontent.com/78900200/121198668-82cf2900-c89c-11eb-8b7f-2945ae9ed35c.png)
 9. Open Firebase in a new Google tab.
+![image](https://user-images.githubusercontent.com/78900200/121188564-72ff1700-c893-11eb-9e1a-d6cd6986a17a.png)
 10. Add project, then click create a project.
+![image](https://user-images.githubusercontent.com/78900200/121199238-f96c2680-c89c-11eb-9713-a7eb6f083e82.png)
 11. For project name, connect your GCP Project by choose it on Firebase Project.
 ![image](https://user-images.githubusercontent.com/78900200/121188564-72ff1700-c893-11eb-9e1a-d6cd6986a17a.png)
 12. Choose your plan (Blaze), then continue.
