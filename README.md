@@ -37,9 +37,11 @@
 18. As you can see, the images also can be seen and edited on GCP bucket cloud storage.
 ![image](https://user-images.githubusercontent.com/78900200/121189043-eacd4180-c893-11eb-85a3-e07a9e890d54.png)
 19. To make the images and bucket become public, choose the bucket and click the three dots, then choose edit bucket permissions.
-20. Click add member.
-21. On new member, type "allUsers".
 ![image](https://user-images.githubusercontent.com/78900200/121189341-34b62780-c894-11eb-978a-bfbc78a08314.png)
+20. Click add member.
+![image](https://user-images.githubusercontent.com/78900200/121200564-0c332b00-c89e-11eb-839e-062067ce0158.png)
+21. On new member, type "allUsers".
 22. On select a role, specify the roles to Cloud Storage > Storage Object Viewer.
 ![image](https://user-images.githubusercontent.com/78900200/121189213-14866880-c894-11eb-8593-1df486f7356b.png)
 23. Files in buckets are publicly accessible.
+![image](https://user-images.githubusercontent.com/78900200/121200703-23721880-c89e-11eb-9452-f786a4ba3cc9.png)
