@@ -1,10 +1,13 @@
 # Lymphoblast-Project
 
 1. Open GCP in a Google tab.
+![image](https://user-images.githubusercontent.com/78900200/121197633-a9d92b00-c89b-11eb-9f64-e3cddc100d64.png)
 2. Log in to GCP using gmail account.
 ![image](https://user-images.githubusercontent.com/78900200/121187710-8d84c080-c892-11eb-9200-009bbb115d52.png)
 3. Claim GCP Voucher to get free billing credit.
+![image](https://user-images.githubusercontent.com/78900200/121197672-b2c9fc80-c89b-11eb-9ced-f04b9b641c61.png)
 4. Make a new project.
+![image](https://user-images.githubusercontent.com/78900200/121197837-da20c980-c89b-11eb-80d6-ee54f17d530f.png)
 5. Linked the project to billing account.
 ![image](https://user-images.githubusercontent.com/78900200/121187909-c1f87c80-c892-11eb-8968-033c3c4d01bf.png)
 6. Go to IAM & Admin menu, add member and specify its specific role, then save.
