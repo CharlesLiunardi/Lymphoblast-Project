@@ -13,8 +13,9 @@
 6. Go to IAM & Admin menu, add member and specify its specific role, then save.
 ![image](https://user-images.githubusercontent.com/78900200/121188118-ff5d0a00-c892-11eb-8767-6d2e31646366.png)
 7. Go to Compute Engine > VM Instances.
-8. Create VM instance with configurations as needed, authors use Machine Family General-Purpose Series N1 and Boot Disk Ubuntu-1804.
 ![image](https://user-images.githubusercontent.com/78900200/121188298-2d424e80-c893-11eb-84fc-14c98649b90d.png)
+8. Create VM instance with configurations as needed, authors use Machine Family General-Purpose Series N1 and Boot Disk Ubuntu-1804.
+![image](https://user-images.githubusercontent.com/78900200/121198668-82cf2900-c89c-11eb-8b7f-2945ae9ed35c.png)
 9. Open Firebase in a new Google tab.
 10. Add project, then click create a project.
 11. For project name, connect your GCP Project by choose it on Firebase Project.
